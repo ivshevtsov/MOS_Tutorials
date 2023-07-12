@@ -45,5 +45,4 @@ plt.ylim((-70, 5))
 plt.xlim((0, 50e6))
 plt.legend()
 
-
 plt.show()
